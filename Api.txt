@@ -1,0 +1,46 @@
+*** Appliction programming interface 
+
+An API is a software intermediary that allows to or more applaction to tolk each other
+
+API: 
+
+1) Private: it can be used within the organization
+
+2) Partnar: it can used within Bussiness Partners
+
+3) public: it can be used any third party developers
+
+
+WEB API:
+
+An API, which is interface for web is called as web API (request and responce)
+How web API works:
+
+1) Client makes Http request to API
+
+2) API will communicate to web applaction/Database
+
+3) API returns  DATA to Client
+
+REST:
+
+1) Architecural guideline to develop web API 
+
+2) API developed using rest is known as rest API/Restful API
+
+API:
+
+1) API is nothing but URL which can integrate into frontend applaction 
+
+2) when we hit the url along with some parameters and requst method then
+it will return expected response
+
+CRUD OPRATIONs:
+
+1) GET METHOD : To fetch the data(Http request method)
+
+2) POST: To Add the data
+
+3)GET(id): sepcific field
+
+4)Delete: sepcific field Delete
